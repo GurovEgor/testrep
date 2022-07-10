@@ -1,0 +1,47 @@
+table{
+    font-family: "Arial Narrow";
+     float: left; 
+     line-height: 70px;
+     font-size: 40px;
+     margin-top: 40px;
+     margin-right: 10px;
+     text-align: center; 
+
+}
+.color-style
+{
+     height: 240px;
+     width: 240px;
+     font:  140px Arial Narrow;
+}
+
+.name-card1
+{
+     padding-left: 15px;
+     color: Jet;
+     background: white;
+     text-align: left;
+     box-shadow: 0 0 0 0px , 
+                0 0 0 0px ,
+                1px 1px 1px 1px #a9a9a9;
+}
+
+.color-card1
+{ background: #65c2dc;}
+
+.color-card3
+{ background: #269f5d;     
+     color: white;}
+
+.color-card2{
+     background: #eebc40;
+     color: white;}
+
+    
+     .header_image {
+
+     position:absolute;
+     top:260px;
+     left:440px;
+     
+}

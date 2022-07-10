@@ -1,0 +1,14 @@
+
+.stealth{    
+    overflow: auto;
+    resize: none;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+div{
+    border: 1px solid grey;
+    border-left: none;
+    border-right: none;
+
+}
